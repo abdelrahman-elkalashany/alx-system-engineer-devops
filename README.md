@@ -1,2 +1,2 @@
 # alx-system-engineer-devops
-Repo for prscticing shell basics
+Repo for practicing shell basics
